@@ -1,4 +1,4 @@
-
+//Создал два объекта
 let person_1 = {
     name : 'Andrii',
     age : 30,
@@ -24,6 +24,7 @@ let person_2 = {
 // }
 // console.log (person_1.name)
 
+// Изменил объeкт person_1
 function forPerson_1(){
     person_1.name = person_2.name
     person_1.age = person_2.age
