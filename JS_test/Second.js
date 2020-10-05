@@ -22,3 +22,10 @@ for (ageTest in person_1) {
     }
 }
 console.log (person_1.name)
+
+function forPerson_1(){
+    person_1.age = person_2.age
+}
+forPerson_1()
+console.log (person_1)
+  
