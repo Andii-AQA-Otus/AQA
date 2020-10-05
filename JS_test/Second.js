@@ -13,6 +13,7 @@ let person_2 = {
     height : 165,
 };
 
+//Здесь я пробовал как работает цикл for
 // for (ageTest in person_1) {
 //     if (person_1[ageTest] == 30) {
 //         console.log( 'It\'s Ok')
